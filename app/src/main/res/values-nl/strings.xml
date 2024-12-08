@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OverwinningsTeller</string>
+    <string name="label_score">Score:</string>
+    <string name="btn_add">Punten toevoegen</string>
+    <string name="btn_subtract">Punten aftrekken</string>
+    <string name="btn_restart">Spel herstarten</string>
+</resources>

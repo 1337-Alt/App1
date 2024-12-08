@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VictoryCounter</string>
+    <string name="label_score">Score:</string>
+    <string name="btn_add">Add Points</string>
+    <string name="btn_subtract">Subtract Points</string>
+    <string name="btn_restart">Restart Game</string>
+</resources>
